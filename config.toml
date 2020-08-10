@@ -1,4 +1,4 @@
-baseURL = "localhost:1313"
+baseURL = "/"
 languageCode = "en-us"
 title = "關於陳睨"
 theme = "hugo-lodi-theme"
