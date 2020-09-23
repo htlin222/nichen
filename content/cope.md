@@ -7,7 +7,7 @@ thumbnail: "cope.jpg"
 case_short_title: "Cope iOS App"
 case_title: "Cope iOS App"
 case_subtitle: "Mobile App Design"
-case_description: "Cope is a mobile app that allows mental health help seekers track their symptoms and medication. I helped them create a minimum viable product for testing."
+case_description: "在首頁的介紹."
 case_feature_img: "featured-cope.jpg"
 case_summary: "Cope is an application that helps users track their mental health. Progress is measured through the use of a check-in system, calendar, medicine tracker and a summary dashboard. I created a minimum viable product for this application."
 team: ["Alexis Collado", "Carlos Arcenas", "Kat Uytiepo", "John Palomo"]
@@ -16,22 +16,22 @@ methods: ["Sketching", "Mockups", "Guerilla Testing"]
 button_links:
     - link: "https://marvelapp.com/g4b64e/screen/14364499"
       img: "eyeball.svg"
-      text: "View Prototype"
+      text: "連結一"
     - link: "http://copenow.co/"
       img: "eyeball.svg"
-      text: "View Landing Page"
+      text: "連結二"
     - link: "cope.pdf"
       img: "download.svg"
-      text: "Download Feature Sets"
-testimonial: "Alexis designed everything for Cope from the ground up. What I really like about him is his true understanding and grasp of what makes a great UI great. He knows that the user experience needs a lot of refining from customers and he isn't shy to take feedback even if it's critical. Alexis is one of those rare people who just gets it."
+      text: "可以下載的連結"
+testimonial: "我覺得陳睨超強."
 testimonial_photo: "john.jpg"
 testimonial_author: "John Robert Palomo"
 testimonial_subtitle: "Co-founder, Cope"
-date: 2017-10-15T03:29:08-07:00
+date: 2020-10-15T03:29:08-07:00
 draft: false
 ---
 
-# The Challenge
+# 雜學校策展執行
 
 ![](//localhost:1313/cope/img/persona.png)
 
